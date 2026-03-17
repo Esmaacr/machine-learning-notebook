@@ -1,1 +1,1 @@
-# makine--renmesi-notlar-m
+# makine öğrenmesi notlarım
